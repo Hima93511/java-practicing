@@ -15,7 +15,7 @@
 
 //     console.log('hello ' + salutation + " " +  name)
 // }
-// greetings('Mr','john')
+// greetings('Mr','Himanshu')
 
 
 //scope
